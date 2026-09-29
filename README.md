@@ -50,7 +50,7 @@ These slicers allow users to dynamically filter the dashboard and analyze specif
 
 ## Dashboard Preview
 
-![Store Sales Dashboard](storedashboard.png)
+![Excel Dashboard](dash._Screenshot.png)
 
 ## 📂 Files
 - `Satoredata.xlsx` – Raw sales data and Excel dashboard
